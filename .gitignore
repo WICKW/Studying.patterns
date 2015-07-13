@@ -15,6 +15,7 @@ build/
 target/
 bin/
 out/
+test/
 dependency-reduced-pom.xml
 
 # Eclipse Project Files
