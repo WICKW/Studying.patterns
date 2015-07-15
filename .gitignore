@@ -34,3 +34,5 @@ dependency-reduced-pom.xml
 
 # Logs
 log.txt
+
+src/test
